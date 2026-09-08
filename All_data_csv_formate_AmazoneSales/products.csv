@@ -1,0 +1,301 @@
+product_id,product_name,category,brand,unit_price,supplier,stock_quantity
+P0001,Dumbbells,Sports,FitPro,999999.99,Supplier_D,46
+P0002,Smartwatch,Electronics,TechMax,46464.24,Supplier_B,281
+P0003,Jeans,Clothing,TechMax,19021.82,Supplier_B,339
+P0004,Lamp,Home,Zenix,23290.06,Supplier_A,361
+P0005,Jeans,Clothing,UrbanStyle,4607.41,Supplier_D,91
+P0006,Laptop,Electronics,,30527.16,Supplier_A,375
+P0007,Football,Sports,Amazon Basics,14551.96,Supplier_B,211
+P0008,T-Shirt,Clothing,UrbanStyle,8182.39,Supplier_C,74
+P0009,Tablet,Electronics,Amazon Basics,27316.66,Supplier_C,377
+P0010,Smartphone,Electronics,FitPro,26708.05,Supplier_C,201
+P0011,Moisturizer,Beauty,Zenix,3977.41,Supplier_B,444
+P0012,Running Shoes,Sports,Zenix,34970.13,Supplier_A,406
+P0013,Dumbbells,Sports,FitPro,31262.86,Supplier_D,420
+P0014,Jeans,Clothing,TechMax,9612.06,Supplier_B,296
+P0015,Guide,Books,Nova,23576.86,Supplier_C,307
+P0016,Perfume,Beauty,Nova,36071.08,Supplier_A,210
+P0017,Yoga Mat,Sports,UrbanStyle,26564.9,Supplier_D,492
+P0018,Headphones,Electronics,TechMax,19894.36,Supplier_D,337
+P0019,Football,Sports,Amazon Basics,16251.46,Supplier_B,432
+P0020,Novel,Books,Zenix,30596.61,Supplier_B,410
+P0021,Chair,Home,UrbanStyle,46966.61,Supplier_D,133
+P0022,Vacuum Cleaner,Home,FitPro,33651.89,Supplier_D,329
+P0023,Running Shoes,Sports,TechMax,3921.35,Supplier_C,65
+P0024,Yoga Mat,Sports,Zenix,23141.11,Supplier_D,279
+P0025,Moisturizer,Beauty,Amazon Basics,44562.04,Supplier_B,421
+P0026,Football,Sports,Amazon Basics,4903.23,Supplier_A,27
+P0027,Comics,Books,Nova,49445.01,Supplier_C,411
+P0028,Cricket Bat,Sports,UrbanStyle,47462.66,Supplier_C,116
+P0029,T-Shirt,Clothing,,4097.07,Supplier_D,492
+P0030,Guide,Books,Zenix,46682.98,Supplier_A,369
+P0031,Makeup,Beauty,Amazon Basics,18283.0,Supplier_C,486
+P0032,Jeans,Clothing,Zenix,42265.52,Supplier_B,449
+P0033,Jacket,Clothing,FitPro,21034.49,Supplier_D,316
+P0034,Mixer,Home,Zenix,22153.58,Supplier_B,429
+P0035,Textbook,Books,,31784.31,Supplier_D,324
+P0036,Dress,Clothing,Nova,38767.98,Supplier_C,113
+P0037,Makeup,Beauty,Zenix,1881.7,Supplier_D,74
+P0038,Mixer,Home,TechMax,29738.17,Supplier_A,201
+P0039,Dress,Clothing,Nova,9498.3,Supplier_B,426
+P0040,Guide,Books,FitPro,17427.29,Supplier_A,58
+P0041,Cookware,Home,Nova,17527.84,Supplier_B,385
+P0042,Biography,Books,Zenix,23558.2,Supplier_B,14
+P0043,Guide,Books,Zenix,16838.99,Supplier_D,230
+P0044,Comics,Books,TechMax,5545.58,Supplier_C,104
+P0045,Lamp,Home,Amazon Basics,7451.31,Supplier_C,164
+P0046,Dress,Clothing,TechMax,1864.21,Supplier_A,198
+P0047,Football,Sports,Zenix,23617.4,Supplier_D,403
+P0048,Tablet,Electronics,Nova,47730.5,Supplier_C,353
+P0049,T-Shirt,Clothing,TechMax,5959.63,Supplier_B,34
+P0050,Cookware,Home,TechMax,47322.97,Supplier_B,161
+P0051,Smartwatch,Electronics,Amazon Basics,36720.4,Supplier_D,244
+P0052,Headphones,Electronics,Zenix,31946.44,Supplier_A,469
+P0053,Laptop,Electronics,Zenix,32333.83,Supplier_D,286
+P0054,Dumbbells,Sports,FitPro,41370.04,Supplier_A,382
+P0055,Shampoo,Beauty,Amazon Basics,5523.61,Supplier_D,470
+P0056,Cookware,Home,FitPro,25335.77,Supplier_B,18
+P0057,Yoga Mat,Sports,FitPro,34914.14,Supplier_D,451
+P0058,Football,Sports,FitPro,29422.66,Supplier_C,279
+P0059,Shampoo,Beauty,UrbanStyle,41671.4,Supplier_C,339
+P0060,Headphones,Electronics,FitPro,3798.13,Supplier_D,422
+P0061,Makeup,Beauty,TechMax,34595.91,Supplier_A,347
+P0062,Face Wash,Beauty,Nova,26793.58,Supplier_A,181
+P0063,Running Shoes,Sports,TechMax,19081.21,Supplier_B,422
+P0064,Mixer,Home,TechMax,17144.69,Supplier_B,400
+P0065,Guide,Books,Zenix,31116.47,Supplier_A,146
+P0066,Perfume,Beauty,UrbanStyle,44570.57,Supplier_D,373
+P0067,Shampoo,Beauty,FitPro,24908.56,Supplier_B,175
+P0068,Tablet,Electronics,Zenix,41270.21,Supplier_A,162
+P0069,Smartwatch,Electronics,Amazon Basics,20226.39,Supplier_A,415
+P0070,Yoga Mat,Sports,Amazon Basics,5298.24,Supplier_D,174
+P0071,Headphones,Electronics,Zenix,3261.99,Supplier_C,493
+P0072,Jacket,Clothing,Nova,2755.45,Supplier_A,46
+P0073,Perfume,Beauty,Zenix,19130.48,Supplier_B,255
+P0074,Laptop,Electronics,Zenix,16993.44,Supplier_D,447
+P0075,Chair,Home,UrbanStyle,35952.26,Supplier_D,173
+P0076,Shoes,Clothing,Amazon Basics,37191.51,Supplier_D,102
+P0077,Football,Sports,Amazon Basics,2731.53,Supplier_C,120
+P0078,Guide,Books,FitPro,11210.94,Supplier_C,418
+P0079,Face Wash,Beauty,TechMax,13857.24,Supplier_B,349
+P0080,Makeup,Beauty,Zenix,27470.08,Supplier_B,144
+P0081,Mixer,Home,Zenix,7395.86,Supplier_D,41
+P0082,Guide,Books,Nova,6869.27,Supplier_B,366
+P0083,Biography,Books,Amazon Basics,47199.69,Supplier_A,28
+P0084,Football,Sports,Nova,40248.3,Supplier_C,453
+P0085,Yoga Mat,Sports,UrbanStyle,9195.61,Supplier_D,379
+P0086,Jeans,Clothing,FitPro,20446.08,Supplier_D,272
+P0087,Perfume,Beauty,,17908.98,Supplier_A,464
+P0088,Headphones,Electronics,Amazon Basics,39591.0,Supplier_A,13
+P0089,Cricket Bat,Sports,UrbanStyle,25607.6,Supplier_A,407
+P0090,Cookware,Home,Zenix,6565.92,Supplier_A,440
+P0091,Vacuum Cleaner,Home,UrbanStyle,37000.8,Supplier_D,305
+P0092,Cookware,Home,TechMax,19964.02,Supplier_C,312
+P0093,Dumbbells,Sports,Nova,13292.63,Supplier_C,484
+P0094,Football,Sports,Amazon Basics,18898.83,Supplier_A,188
+P0095,Cookware,Home,Nova,24987.28,Supplier_B,359
+P0096,Cricket Bat,Sports,Zenix,17286.15,Supplier_D,294
+P0097,Laptop,Electronics,Zenix,12245.91,Supplier_C,182
+P0098,Smartphone,Electronics,Amazon Basics,20044.4,Supplier_A,351
+P0099,Jeans,Clothing,TechMax,1153.81,Supplier_B,35
+P0100,Makeup,Beauty,FitPro,38669.39,Supplier_B,369
+P0101,Laptop,Electronics,UrbanStyle,8712.06,Supplier_A,36
+P0102,Jeans,Clothing,UrbanStyle,2385.45,Supplier_D,495
+P0103,Comics,Books,Zenix,32753.19,Supplier_C,13
+P0104,Shampoo,Beauty,Nova,38741.02,Supplier_B,410
+P0105,Smartphone,Electronics,Nova,40727.69,Supplier_C,122
+P0106,Textbook,Books,TechMax,24775.76,Supplier_C,82
+P0107,Dress,Clothing,FitPro,10426.34,Supplier_B,158
+P0108,Smartphone,Electronics,Nova,36912.94,Supplier_A,493
+P0109,Smartphone,Electronics,UrbanStyle,35044.71,Supplier_B,328
+P0110,Running Shoes,Sports,Nova,12463.28,Supplier_B,101
+P0111,Biography,Books,FitPro,45188.71,Supplier_D,336
+P0112,Headphones,Electronics,UrbanStyle,5396.7,Supplier_C,82
+P0113,Vacuum Cleaner,Home,Nova,49136.87,Supplier_A,43
+P0114,Running Shoes,Sports,UrbanStyle,43039.34,Supplier_C,67
+P0115,Football,Sports,Zenix,34456.35,Supplier_B,47
+P0116,Smartphone,Electronics,Zenix,46948.74,Supplier_A,56
+P0117,Cricket Bat,Sports,TechMax,36170.1,Supplier_A,74
+P0118,Shampoo,Beauty,,9683.76,Supplier_A,21
+P0119,Comics,Books,,22218.38,Supplier_A,131
+P0120,Shampoo,Beauty,FitPro,3759.85,Supplier_D,464
+P0121,Jeans,Clothing,UrbanStyle,19603.94,Supplier_A,455
+P0122,Perfume,Beauty,Amazon Basics,37130.83,Supplier_B,301
+P0123,Mixer,Home,Zenix,19443.88,Supplier_D,442
+P0124,Dumbbells,Sports,Zenix,16647.65,Supplier_B,417
+P0125,Running Shoes,Sports,Amazon Basics,29847.71,Supplier_B,266
+P0126,Cookware,Home,Amazon Basics,43634.79,Supplier_C,286
+P0127,Yoga Mat,Sports,Nova,2568.64,Supplier_A,394
+P0128,Makeup,Beauty,UrbanStyle,19395.43,Supplier_A,119
+P0129,Jeans,Clothing,Zenix,8079.39,Supplier_B,245
+P0130,Tablet,Electronics,FitPro,34827.64,Supplier_A,55
+P0131,Mixer,Home,Nova,5464.08,Supplier_D,37
+P0132,Face Wash,Beauty,Nova,33306.43,Supplier_C,244
+P0133,Perfume,Beauty,FitPro,14450.81,Supplier_A,20
+P0134,Makeup,Beauty,FitPro,10105.06,Supplier_A,109
+P0135,Smartphone,Electronics,TechMax,46829.36,Supplier_D,93
+P0136,Novel,Books,FitPro,1121.52,Supplier_C,393
+P0137,Football,Sports,Amazon Basics,22000.31,Supplier_D,409
+P0138,Yoga Mat,Sports,Zenix,1276.02,Supplier_B,474
+P0139,T-Shirt,Clothing,TechMax,24281.93,Supplier_B,135
+P0140,Comics,Books,Amazon Basics,25151.16,Supplier_A,230
+P0141,Yoga Mat,Sports,TechMax,16217.79,Supplier_C,7
+P0142,Dress,Clothing,Zenix,6780.66,Supplier_B,443
+P0143,Jeans,Clothing,TechMax,18943.1,Supplier_D,327
+P0144,Face Wash,Beauty,Amazon Basics,33677.69,Supplier_B,374
+P0145,Chair,Home,UrbanStyle,39162.31,Supplier_B,289
+P0146,Moisturizer,Beauty,Zenix,26630.38,Supplier_D,250
+P0147,Headphones,Electronics,Nova,29572.75,Supplier_A,399
+P0148,Running Shoes,Sports,Zenix,10189.7,Supplier_C,360
+P0149,Dress,Clothing,Zenix,14508.05,Supplier_A,396
+P0150,Cookware,Home,Zenix,8261.4,Supplier_D,86
+P0151,Running Shoes,Sports,UrbanStyle,12613.91,Supplier_B,203
+P0152,Shoes,Clothing,Amazon Basics,11398.36,Supplier_C,218
+P0153,Jacket,Clothing,Nova,26067.55,Supplier_A,405
+P0154,Face Wash,Beauty,Amazon Basics,28220.9,Supplier_D,479
+P0155,Vacuum Cleaner,Home,TechMax,47257.38,Supplier_B,240
+P0156,Cookware,Home,TechMax,9938.42,Supplier_B,410
+P0157,Yoga Mat,Sports,TechMax,32154.45,Supplier_A,319
+P0158,Dress,Clothing,Amazon Basics,40898.51,Supplier_D,257
+P0159,Lamp,Home,FitPro,28099.02,Supplier_B,108
+P0160,Chair,Home,UrbanStyle,12898.18,Supplier_B,255
+P0161,Running Shoes,Sports,FitPro,13274.0,Supplier_C,480
+P0162,Moisturizer,Beauty,TechMax,2153.8,Supplier_B,281
+P0163,Novel,Books,UrbanStyle,15410.12,Supplier_A,219
+P0164,Headphones,Electronics,Amazon Basics,37280.26,Supplier_D,82
+P0165,Novel,Books,TechMax,2565.38,Supplier_D,106
+P0166,Lamp,Home,Amazon Basics,11119.91,Supplier_C,68
+P0167,T-Shirt,Clothing,UrbanStyle,35369.38,Supplier_D,96
+P0168,Smartphone,Electronics,Amazon Basics,39175.05,Supplier_A,211
+P0169,Headphones,Electronics,Amazon Basics,22873.86,Supplier_B,285
+P0170,Jacket,Clothing,Nova,34963.1,Supplier_C,236
+P0171,Tablet,Electronics,FitPro,19519.02,Supplier_D,7
+P0172,Dress,Clothing,FitPro,8162.68,Supplier_C,293
+P0173,Headphones,Electronics,FitPro,20026.84,Supplier_C,188
+P0174,Running Shoes,Sports,Zenix,29081.4,Supplier_D,80
+P0175,Cricket Bat,Sports,Nova,47412.05,Supplier_C,107
+P0176,Novel,Books,TechMax,3622.8,Supplier_D,320
+P0177,Smartwatch,Electronics,TechMax,25467.23,Supplier_A,66
+P0178,Perfume,Beauty,TechMax,16579.2,Supplier_D,173
+P0179,Shoes,Clothing,FitPro,25512.92,Supplier_B,345
+P0180,Smartphone,Electronics,FitPro,1392.98,Supplier_D,350
+P0181,Dumbbells,Sports,,15787.66,Supplier_B,327
+P0182,Cricket Bat,Sports,Amazon Basics,41028.43,Supplier_C,42
+P0183,Jacket,Clothing,FitPro,27785.3,Supplier_D,186
+P0184,Perfume,Beauty,TechMax,22638.01,Supplier_B,301
+P0185,Smartwatch,Electronics,Amazon Basics,14418.15,Supplier_D,199
+P0186,Laptop,Electronics,,15041.52,Supplier_D,380
+P0187,Face Wash,Beauty,UrbanStyle,19277.45,Supplier_D,418
+P0188,Shampoo,Beauty,Zenix,41810.42,Supplier_A,38
+P0189,Perfume,Beauty,FitPro,48366.22,Supplier_B,219
+P0190,Yoga Mat,Sports,UrbanStyle,22044.04,Supplier_A,306
+P0191,T-Shirt,Clothing,Nova,19787.97,Supplier_A,3
+P0192,Makeup,Beauty,UrbanStyle,42357.23,Supplier_B,120
+P0193,Jeans,Clothing,,21458.88,Supplier_D,335
+P0194,Biography,Books,FitPro,27689.5,Supplier_A,76
+P0195,Laptop,Electronics,Nova,11699.89,Supplier_A,467
+P0196,Laptop,Electronics,UrbanStyle,37225.43,Supplier_A,178
+P0197,Cookware,Home,Zenix,26692.02,Supplier_D,132
+P0198,Guide,Books,Amazon Basics,40488.92,Supplier_A,310
+P0199,Shampoo,Beauty,Amazon Basics,39079.49,Supplier_C,228
+P0200,Face Wash,Beauty,Zenix,10906.24,Supplier_B,275
+P0201,Cricket Bat,Sports,TechMax,35837.65,Supplier_C,151
+P0202,Guide,Books,Amazon Basics,40041.71,Supplier_D,163
+P0203,Moisturizer,Beauty,FitPro,17435.14,Supplier_A,289
+P0204,Chair,Home,TechMax,8794.93,Supplier_B,377
+P0205,Jacket,Clothing,FitPro,330.08,Supplier_A,108
+P0206,Laptop,Electronics,UrbanStyle,22654.0,Supplier_D,125
+P0207,Biography,Books,UrbanStyle,17750.15,Supplier_B,239
+P0208,Tablet,Electronics,TechMax,27833.51,Supplier_C,309
+P0209,Shoes,Clothing,TechMax,9563.45,Supplier_B,417
+P0210,Textbook,Books,TechMax,43010.34,Supplier_A,466
+P0211,Jacket,Clothing,TechMax,13035.21,Supplier_B,400
+P0212,Perfume,Beauty,Nova,11475.19,Supplier_D,388
+P0213,Face Wash,Beauty,TechMax,24138.56,Supplier_D,344
+P0214,Makeup,Beauty,TechMax,25041.78,Supplier_B,145
+P0215,Shoes,Clothing,UrbanStyle,10910.24,Supplier_D,251
+P0216,Jacket,Clothing,FitPro,13737.66,Supplier_D,182
+P0217,Jacket,Clothing,UrbanStyle,8650.32,Supplier_D,308
+P0218,Laptop,Electronics,Amazon Basics,35978.32,Supplier_C,305
+P0219,Shoes,Clothing,Nova,38549.43,Supplier_A,71
+P0220,Moisturizer,Beauty,Nova,23222.96,Supplier_D,218
+P0221,Cookware,Home,FitPro,35760.53,Supplier_B,206
+P0222,Jacket,Clothing,TechMax,36848.58,Supplier_D,172
+P0223,Mixer,Home,UrbanStyle,7085.12,Supplier_C,140
+P0224,Face Wash,Beauty,Amazon Basics,48314.67,Supplier_B,271
+P0225,Jeans,Clothing,,41086.39,Supplier_A,213
+P0226,Laptop,Electronics,TechMax,10382.28,Supplier_B,467
+P0227,Laptop,Electronics,TechMax,9470.02,Supplier_B,268
+P0228,Cookware,Home,Zenix,6456.93,Supplier_B,19
+P0229,Dumbbells,Sports,UrbanStyle,7090.25,Supplier_B,65
+P0230,Laptop,Electronics,FitPro,37457.46,Supplier_D,482
+P0231,Smartphone,Electronics,UrbanStyle,23587.78,Supplier_A,302
+P0232,Laptop,Electronics,Nova,39189.12,Supplier_D,146
+P0233,Perfume,Beauty,Amazon Basics,37362.49,Supplier_C,428
+P0234,Laptop,Electronics,FitPro,30308.71,Supplier_C,164
+P0235,Comics,Books,Zenix,34380.06,Supplier_B,377
+P0236,Jacket,Clothing,,1113.12,Supplier_D,309
+P0237,Tablet,Electronics,Amazon Basics,15725.53,Supplier_D,5
+P0238,Dumbbells,Sports,Nova,31962.54,Supplier_A,13
+P0239,Football,Sports,Nova,664.38,Supplier_A,131
+P0240,Tablet,Electronics,Nova,1841.25,Supplier_A,341
+P0241,Laptop,Electronics,FitPro,42623.02,Supplier_D,242
+P0242,Comics,Books,UrbanStyle,34263.44,Supplier_A,438
+P0243,Tablet,Electronics,Amazon Basics,13414.41,Supplier_A,230
+P0244,Smartphone,Electronics,,34459.55,Supplier_A,227
+P0245,Shoes,Clothing,UrbanStyle,39663.34,Supplier_B,161
+P0246,Running Shoes,Sports,,15477.36,Supplier_C,282
+P0247,Guide,Books,UrbanStyle,1993.66,Supplier_C,262
+P0248,Running Shoes,Sports,Amazon Basics,46651.4,Supplier_D,130
+P0249,Novel,Books,Amazon Basics,17388.96,Supplier_D,430
+P0250,Yoga Mat,Sports,TechMax,5501.79,Supplier_B,224
+P0251,Smartwatch,Electronics,,24693.47,Supplier_C,257
+P0252,Dumbbells,Sports,FitPro,38468.7,Supplier_A,233
+P0253,Dumbbells,Sports,UrbanStyle,11237.04,Supplier_A,335
+P0254,Guide,Books,FitPro,13619.6,Supplier_D,408
+P0255,Chair,Home,FitPro,12286.21,Supplier_C,315
+P0256,Textbook,Books,FitPro,49584.32,Supplier_D,462
+P0257,Comics,Books,TechMax,10029.71,Supplier_D,23
+P0258,Biography,Books,FitPro,28859.91,Supplier_A,270
+P0259,Moisturizer,Beauty,TechMax,46277.18,Supplier_A,94
+P0260,Face Wash,Beauty,Amazon Basics,7514.45,Supplier_C,141
+P0261,Perfume,Beauty,UrbanStyle,48547.54,Supplier_D,181
+P0262,Guide,Books,TechMax,47383.37,Supplier_B,205
+P0263,Chair,Home,Zenix,44250.68,Supplier_C,389
+P0264,Biography,Books,FitPro,10883.91,Supplier_D,461
+P0265,Smartphone,Electronics,Zenix,31774.94,Supplier_C,80
+P0266,Mixer,Home,Amazon Basics,38091.4,Supplier_C,273
+P0267,Moisturizer,Beauty,Amazon Basics,49303.19,Supplier_C,275
+P0268,Yoga Mat,Sports,Nova,9184.11,Supplier_B,370
+P0269,Running Shoes,Sports,FitPro,38347.09,Supplier_B,445
+P0270,Dress,Clothing,Nova,17071.3,Supplier_A,464
+P0271,Lamp,Home,Zenix,8945.2,Supplier_A,207
+P0272,Shampoo,Beauty,UrbanStyle,21183.57,Supplier_D,295
+P0273,Lamp,Home,Nova,39732.03,Supplier_C,38
+P0274,Vacuum Cleaner,Home,Amazon Basics,23348.52,Supplier_D,435
+P0275,Running Shoes,Sports,FitPro,26967.65,Supplier_A,287
+P0276,Novel,Books,Zenix,49757.94,Supplier_B,123
+P0277,Smartwatch,Electronics,TechMax,20074.64,Supplier_A,363
+P0278,Shoes,Clothing,Amazon Basics,30845.96,Supplier_D,456
+P0279,Face Wash,Beauty,TechMax,18388.16,Supplier_A,282
+P0280,Cookware,Home,UrbanStyle,19759.73,Supplier_D,365
+P0281,Dress,Clothing,FitPro,34841.91,Supplier_D,179
+P0282,Cookware,Home,UrbanStyle,46905.77,Supplier_D,96
+P0283,Running Shoes,Sports,UrbanStyle,27208.48,Supplier_D,190
+P0284,Headphones,Electronics,FitPro,38465.32,Supplier_A,73
+P0285,Football,Sports,,4641.49,Supplier_D,446
+P0286,T-Shirt,Clothing,TechMax,10714.67,Supplier_D,272
+P0287,Perfume,Beauty,UrbanStyle,25205.16,Supplier_C,496
+P0288,Vacuum Cleaner,Home,Zenix,1195.58,Supplier_D,48
+P0289,Smartwatch,Electronics,TechMax,12791.18,Supplier_A,483
+P0290,Dumbbells,Sports,FitPro,25965.58,Supplier_D,336
+P0291,Jeans,Clothing,Amazon Basics,944.07,Supplier_B,209
+P0292,Dumbbells,Sports,TechMax,13373.41,Supplier_B,115
+P0293,Lamp,Home,Nova,25797.73,Supplier_D,22
+P0294,Vacuum Cleaner,Home,Zenix,28741.83,Supplier_B,97
+P0295,Makeup,Beauty,TechMax,46301.43,Supplier_B,327
+P0296,Smartphone,Electronics,FitPro,32337.21,Supplier_A,396
+P0297,Novel,Books,FitPro,20852.84,Supplier_C,406
+P0298,Running Shoes,Sports,Zenix,46530.49,Supplier_B,312
+P0299,Mixer,Home,Nova,39286.17,Supplier_B,189
+P0300,Dress,Clothing,TechMax,10159.44,Supplier_C,181
