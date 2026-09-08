@@ -14,7 +14,7 @@ Python visualizations with Matplotlib and Seaborn (sales by state, brand, catego
 Interactive Power BI dashboard for KPI tracking.
 
 Business Insights:</br> Trends in sales by quarter, brand, category, supplier, city, payment status, and return reasons.
-</br>
+</br></br></br>
 ⚙️ Tech Stack</br></br>
 Python (NumPy, Pandas, Seaborn, Matplotlib)
 
@@ -22,8 +22,8 @@ MySQL & PyMySQL
 
 Power Query
 
-Power BI
-</br>
+Power BI</br></br>
+
 📷 Visualizations</br></br>
 Sales by Yearly State (Matplotlib)</br>
 <img width="1094" height="402" alt="1" src="https://github.com/user-attachments/assets/71df2ac1-d19d-4b3b-8da6-79482821a9ac" />
